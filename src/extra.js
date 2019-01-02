@@ -1,5 +1,5 @@
 import React from 'react'
-import { G } from 'react-native-svg'
+import { G } from 'expo'
 
 const Extra = ({ children, ...props }) => {
     return (

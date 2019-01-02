@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Text, View } from 'react-native'
 import * as d3Scale from 'd3-scale'
 import * as array from 'd3-array'
-import Svg, { G, Text as SVGText } from 'react-native-svg'
+import Svg, { G, Text as SVGText } from 'expo'
 
 class XAxis extends PureComponent {
 
