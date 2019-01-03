@@ -49,12 +49,12 @@
     "d3-interpolate-path": "2.0.0",
     "d3-scale": "^1.0.6",
     "d3-shape": "^1.0.6",
-    "expo": "^31.0.6",
     "prop-types": "^15.6.0"
   },
   "peerDependencies": {
     "react": ">=16.0.0-alpha.12",
-    "react-native": ">=0.46.0"
+    "react-native": ">=0.46.0",
+    "expo": "^31.0.6"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.14",
